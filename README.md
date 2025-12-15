@@ -1,6 +1,13 @@
 # 💫 About Me:
 Hello, I'm Grégory! <br><br>EPFL CS Student -> Incoming ETH Zürich Cybersecurity Student.<br><br>My focus is on robust systems, hardware security, and functional programming.<br><br>   🛡️ Security & Systems: Active CTF player. <br><br>   📱 Software Engineering: Co-creator of NepTune, an Android sampler app for audio sharing.<br><br>   🌐 Web & Logic: Experience with Scala Web Apps and game logic.<br><br>   ⚡ Fun fact: I've coded everything from a processor to a board game engine.
 
+## 🚀 Projects I have contributed to
+
+
+* **[NepTune](https://github.com/NepTune-SwEnt/NepTune)**
+
+* **[project-comparch-la-revanche](https://github.com/uri-j/project-comparch-la-revanche)**
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gregvblanc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gregory-vincent-blanc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gregory.blanc@epfl.ch) 
